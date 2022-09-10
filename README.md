@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hola Mundo 👋
 
 <!--
-**Riespa/Riespa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Riespa/Riespa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Soy desarrollador FrontEnd Junior
+Estudio para ser desarrollador FrontEnd, actualmente tengo conocimiento base en HTML, CSS, javascript y boostrap
 
-- Donde encontrarme:
+#### Donde encontrarme:
+
 [linkedin](https://www.linkedin.com/in/ricardo-esteban-pabon-betancurt/)
 
 Here are some ideas to get you started:
