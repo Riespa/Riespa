@@ -3,7 +3,7 @@
 <!--
 **Riespa/Riespa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Estudio para ser desarrollador FrontEnd, actualmente tengo conocimiento en HTML, CSS, javascript y boostrap
+Soy Ricardo Pabón y estudio para ser desarrollador FrontEnd, actualmente tengo conocimiento en HTML, CSS, javascript y boostrap
 
 Actualmente estoy aprendiendo react
 
